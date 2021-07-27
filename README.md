@@ -1,2 +1,2 @@
-# AIchallenge
-AIchallenge hosted by NIPA and Nvidia
+# AI challenge
+AI challenge hosted by NIPA and Nvidia
